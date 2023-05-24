@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/arunkumar030/pizza-updated.git/static/css/main.b6b9abe0.css",
+    "main.js": "/arunkumar030/pizza-updated.git/static/js/main.5ccab4b7.js",
+    "static/js/787.3a33840f.chunk.js": "/arunkumar030/pizza-updated.git/static/js/787.3a33840f.chunk.js",
+    "static/media/pizzaLeft.jpg": "/arunkumar030/pizza-updated.git/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/R.png": "/arunkumar030/pizza-updated.git/static/media/R.e01d6e0b746b16920d31.png",
+    "static/media/vegan.jpg": "/arunkumar030/pizza-updated.git/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/arunkumar030/pizza-updated.git/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/pizzaLogo.png": "/arunkumar030/pizza-updated.git/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/home1.jpg": "/arunkumar030/pizza-updated.git/static/media/home1.d8ba615d52e110714e4e.jpg",
+    "static/media/expensive.jpg": "/arunkumar030/pizza-updated.git/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/arunkumar030/pizza-updated.git/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/arunkumar030/pizza-updated.git/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/home2.jpg": "/arunkumar030/pizza-updated.git/static/media/home2.6fef31cd8a2a4209e0fe.jpg",
+    "static/media/margherita.jpg": "/arunkumar030/pizza-updated.git/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/arunkumar030/pizza-updated.git/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/arunkumar030/pizza-updated.git/index.html",
+    "main.b6b9abe0.css.map": "/arunkumar030/pizza-updated.git/static/css/main.b6b9abe0.css.map",
+    "main.5ccab4b7.js.map": "/arunkumar030/pizza-updated.git/static/js/main.5ccab4b7.js.map",
+    "787.3a33840f.chunk.js.map": "/arunkumar030/pizza-updated.git/static/js/787.3a33840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b9abe0.css",
+    "static/js/main.5ccab4b7.js"
+  ]
+}
